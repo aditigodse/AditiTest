@@ -370,7 +370,7 @@ public class MainActivity extends AppCompatActivity implements ConnectionCallbac
                                 Collections.sort(details_modal, new Comparator<PlacesDetails_Modal>() {
                                     @Override
                                     public int compare(PlacesDetails_Modal lhs, PlacesDetails_Modal rhs) {
-                                        return String.valueOf(rhs.rating).compareTo(String.valueOf(lhs.rating));
+                                        return String.valueOf(lhs.rating).compareTo(String.valueOf(rhs.rating));
                                     }
                                 });
                             }
