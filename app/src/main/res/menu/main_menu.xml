@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group>
+    <item android:id="@+id/miles"
+        android:title="@string/distance_in_miles"/>
+    <item android:id="@+id/km"
+        android:title="@string/distance_in_km"/>
+    <item android:id="@+id/sort_by_distance"
+        android:title="@string/sort_by_distance"/>
+    <item android:id="@+id/sort_by_review"
+        android:title="@string/sort_by_review"/>
+</group>
+</menu>

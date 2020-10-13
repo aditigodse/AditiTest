@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AditiTest</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="distance_in_miles">Distance In Miles</string>
+    <string name="distance_in_km">Distance In KM</string>
+    <string name="sort_by_distance">Sort By Distance</string>
+    <string name="sort_by_review">Sort By Review</string>
+    <string name="logo_desc">Menu On Your Finger</string>
+</resources>
